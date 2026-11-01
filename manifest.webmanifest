@@ -1,0 +1,3 @@
+{"name":"DrillTrack Field","short_name":"DrillTrack","start_url":"DrillTrack_Field.html","display":"standalone","background_color":"#0B3D4F","theme_color":"#0B3D4F",
+ "description":"WARMA DrillTrack field app for drilling crews: trips, GPS path, borehole outcomes and BCRs",
+ "icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
